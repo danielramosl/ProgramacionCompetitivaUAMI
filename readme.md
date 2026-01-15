@@ -27,3 +27,7 @@ como ICPC y plataformas en línea.
 
 El contenido del repositorio se encuentra actualmente en desarrollo.
 Próximamente se publicarán sesiones, ejemplos y material de estudio.
+
+## Contacto 📧
+
+**[club.algoritmos@izt.uam.mx](mailto:club.algoritmos@izt.uam.mx)**
