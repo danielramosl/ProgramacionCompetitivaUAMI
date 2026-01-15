@@ -30,4 +30,4 @@ Próximamente se publicarán sesiones, ejemplos y material de estudio.
 
 ## Contacto 📧
 
-**[club.algoritmos@izt.uam.mx](mailto:club.algoritmos@izt.uam.mx)**
+**Correo: [algoritmosuami@gmail.com](mailto:algoritmosuami@gmail.com)**
