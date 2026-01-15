@@ -10,7 +10,7 @@ recursos y actividades relacionadas con **algoritmos y programación competitiva
 
 ---
 
-🚀 **Únete a nuestro taller: Introducción a la Programación Competitiva**
+## 🚀 Únete a nuestro taller: Introducción a la Programación Competitiva
 
 Este taller está dirigido a estudiantes interesados en aprender y practicar
 algoritmos y técnicas de programación competitiva, con enfoque en concursos
