@@ -10,6 +10,21 @@ recursos y actividades relacionadas con **algoritmos y programación competitiva
 
 ---
 
+🚀 **Únete a nuestro taller: Introducción a la Programación Competitiva**
+
+Este taller está dirigido a estudiantes interesados en aprender y practicar
+algoritmos y técnicas de programación competitiva, con enfoque en concursos
+como ICPC y plataformas en línea.
+
+---
+
+## 🕒 Horarios
+- **Miércoles y viernes**
+- **11:00 a.m. – 12:30 p.m.**
+- **Trimestre 26I**
+
+---
+
 ## 🚧 In progress
 
 El contenido del repositorio se encuentra actualmente en desarrollo.
