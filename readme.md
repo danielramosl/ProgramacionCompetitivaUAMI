@@ -16,8 +16,6 @@ Este taller está dirigido a estudiantes interesados en aprender y practicar
 algoritmos y técnicas de programación competitiva, con enfoque en concursos
 como ICPC y plataformas en línea.
 
----
-
 ## 🕒 Horarios
 - **Miércoles y viernes**
 - **11:00 a.m. – 12:30 p.m.**
