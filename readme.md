@@ -21,9 +21,9 @@ como ICPC y plataformas en línea.
 - **11:00 a.m. – 12:30 p.m.**
 - **AT-219**
 
-**No requiere inscripción previa, puedes asistir cuando puedas.**
+**No requiere inscripción previa, puedes asistir en el momento que gustes.**
 
-**La constancia de finalización requiere haber completado la mayoría de los retos semanales.**
+La constancia de finalización requiere haber completado la mayoría de los retos semanales.
 
 ---
 
