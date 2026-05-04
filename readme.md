@@ -10,28 +10,76 @@ recursos y actividades relacionadas con **algoritmos y programación competitiva
 
 ---
 
-## Únete a nuestro taller: Introducción a la Programación Competitiva
+## Taller: Programación Competitiva Intermedia
 
-Este taller está dirigido a estudiantes interesados en aprender y practicar
-algoritmos y técnicas de programación competitiva, con enfoque en concursos
-como ICPC y plataformas en línea.
+El **Taller de Programación Competitiva Intermedia** está dirigido a estudiantes
+de la DCBI que quieran fortalecer sus habilidades en programación competitiva
+mediante técnicas intermedias de diseño de algoritmos.
 
-## Horarios 🕒
-- **Miércoles y viernes del trimestre 26I**
-- **11:00 a.m. – 12:30 p.m.**
-- **AT-219**
-
-**No requiere inscripción previa, puedes asistir en el momento que gustes.**
-
-La constancia de finalización requiere haber completado la mayoría de los retos semanales.
+El objetivo del taller es que las y los estudiantes practiquen estrategias
+algorítmicas útiles para resolver problemas de concursos de programación,
+como el **Gran Premio de México ICPC**, así como retos en plataformas en línea.
 
 ---
 
-## In progress 🚧
+## Temario 📚
+
+Durante el taller se estudiarán los siguientes temas:
+
+- Introducción a la combinatoria
+- Divide y vencerás
+- Recursión con memorización
+- Programación dinámica
+- Algoritmos de búsqueda no informada:
+  - BFS
+  - DFS
+- Algoritmos voraces
+- Introducción a la teoría de números
+
+---
+
+## Requisitos ✅
+
+Para aprovechar mejor el taller, se recomienda contar con:
+
+- Conocimientos básicos de programación competitiva.
+- Experiencia programando en **C++**, **Java** o **Python**.
+- Haber cursado las UEAs **APANLOO** y **Matemáticas Discretas II**.
+
+---
+
+## Horarios 🕒
+
+- **Lunes y viernes del trimestre 26P**
+- **04:30 p.m. – 06:00 p.m.**
+- **Lunes:** AT-106
+- **Viernes:** AT-219
+
+---
+
+## Constancia 📄
+
+Se otorgará constancia de finalización a quienes cumplan con los criterios de
+participación establecidos durante el taller.
+
+---
+
+## Material del taller 🚧
 
 El contenido del repositorio se encuentra actualmente en desarrollo.
-Próximamente se publicarán sesiones, ejemplos y material de estudio.
+
+Próximamente se publicarán:
+
+- Sesiones del taller.
+- Ejemplos de código.
+- Problemas sugeridos.
+- Material de estudio.
+- Retos semanales.
+
+---
 
 ## Contacto 📧
 
-**Correo: [algoritmosuami@gmail.com](mailto:algoritmosuami@gmail.com)**
+Para más información, puedes escribir al correo:
+
+**[algoritmosuami@gmail.com](mailto:algoritmosuami@gmail.com)**
