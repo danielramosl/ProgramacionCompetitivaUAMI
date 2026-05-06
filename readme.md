@@ -26,16 +26,16 @@ como el **Gran Premio de México ICPC**, así como retos en plataformas en líne
 
 Durante el taller se estudiarán los siguientes temas:
 
-- Introducción a la combinatoria
-- Divide y vencerás
-- Recursión con memorización
-- Programación dinámica
+- Introducción a los problemas de conteo.
+- Divide y vencerás.
+- Recursión con memorización.
+- Programación dinámica.
 - Algoritmos de búsqueda no informada:
-  - BFS
-  - DFS
+  - BFS.
+  - DFS.
 - Búsqueda con retroceso.
-- Algoritmos voraces
-- Introducción a la teoría de números
+- Algoritmos voraces.
+- Introducción a la teoría de números.
 
 ---
 
