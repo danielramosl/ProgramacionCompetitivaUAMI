@@ -33,6 +33,7 @@ Durante el taller se estudiarán los siguientes temas:
 - Algoritmos de búsqueda no informada:
   - BFS
   - DFS
+- Búsqueda con retroceso.
 - Algoritmos voraces
 - Introducción a la teoría de números
 
